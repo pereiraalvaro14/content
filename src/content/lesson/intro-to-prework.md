@@ -58,7 +58,7 @@ Your journey has already begun and you should know that we are following every s
 ## But what if you already know? 
 <hr>
 
-There are some of you who already have some coding experience (mostly with HTML and CSS), and some of you with no experience at all.  That’s the main reason why this stage of the program is known as the **Pre-Work**.  We need to assess the level of experience of each member of the program.  The Pre-Work also enables us to to get to know you, your learning process, and your learning curve better, allowing us to help guide you towards achieving the best possible results.
+There are some of you who already have some coding experience (mostly with HTML and CSS), and some of you with no experience at all.  That’s the main reason why this stage of the program is known as the **Pre-Work**.  We need to assess the level of experience of each member of the program.  The Pre-Work also enables us to get to know you, your learning process, and your learning curve better, allowing us to help guide you towards achieving the best possible results.
 
 And this is all because we need to be sure that you have what it takes to complete the program.  It’s going to be intense, and you will feel exhausted, but don’t fret on it.  We have been doing this for a while and we feel you!
 
