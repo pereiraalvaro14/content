@@ -39,7 +39,7 @@ As it is to be expected, if you wish to share documents, all you need is text.  
 
 What this means is that: everything is text.  For example, if you wish to send a photograph to your grandmother through an email, this is more or less what happens:
 
-+ The picture becomes text (at this point, it's text that you wont be able to understand).
++ The picture becomes text (at this point, it's text that you won’t be able to understand).
 + It gets transmitted through the Internet as text.  If a hacker intercepts this, what they would see is a bunch of symbols/letters/numbers one after the other.
 + That long sequence of characters arrives at your grandmother’s computer.
 + Your grandmother double clicks the photo and the program she uses to see the photo transforms the text back into an image understandable to a human.
